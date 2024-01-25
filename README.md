@@ -1,6 +1,10 @@
 # social-website-project
 Welcome to Bookmarks, a sophisticated social website designed to provide a seamless user experience. With a focus on user engagement and efficiency.
 
+**Book Reference:** [Django 4 by Example](https://www.packtpub.com/product/django-4-by-example-fourth-edition/9781801813051)
+
+The book offers professionals level projects with detailed explanations, making it an invaluable resource for building robust Django applications.
+
 # Screenshots
 
 ### 1. Dashboard
